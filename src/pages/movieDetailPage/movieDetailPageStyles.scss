@@ -1,0 +1,13 @@
+.movie-detail-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 960px;
+  width: 90%;
+  margin: auto;
+}
+
+.movie-detail-img {
+  height: auto;
+}
